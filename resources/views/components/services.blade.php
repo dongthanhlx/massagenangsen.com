@@ -137,55 +137,55 @@
     </div>
 
     <div class="grid grid-cols-2 md:grid-cols-6">
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s1.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Chăm sóc da mặt</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Trải nghiệm các dịch vụ chăm sóc da mặt đa dạng kết hợp cùng các tinh chất và mỹ phẩm chất lượng đến từ Hàn quốc</p>
             </div>
         </div>
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s2.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Trị liệu Chân</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Trị liệu chân giúp chăm sóc tốt đôi bàn chân, và cũng là cách để bạn có một sức khỏe tốt, phòng tránh bệnh tật.</p>
             </div>
         </div>
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s3.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Chăm sóc da mặt</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Trải nghiệm các dịch vụ chăm sóc da mặt đa dạng kết hợp cùng các tinh chất và mỹ phẩm chất lượng đến từ Hàn quốc</p>
             </div>
         </div>
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s4.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Trị liệu Toàn thân</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Trị liệu toàn thân giúp thư giãn cơ thể, giảm đau nhức cơ bắp, cải thiện làn da và nâng cao sức khỏe một cách toàn diện.</p>
             </div>
         </div>
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s5.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Trị liệu Đầu, Vai, Cổ</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Tăng cường lưu thông máu huyết, giảm đau nhức cơ thể, giảm căng thẳng, loại bỏ stress, thư giãn tinh thần, mang lại cảm giác thư giãn tuyệt đối.</p>
             </div>
         </div>
-        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group">
+        <div class="border border-gray-100 hover:cursor-pointer hover:shadow-xl group hover:bg-stone-100">
             <img src="{{ asset('storage/s6.png') }}" alt="">
 
-            <div class="divide divide-y p-8 space-y-5 group-hover:bg-stone-100">
+            <div class="divide divide-y p-8 space-y-5">
                 <h4 class="text-2xl md:text-3xl text-stone-600 font-medium">Gội đầu dưỡng sinh</h4>
 
                 <p class="py-5 text-gray-600 text-lg">Gội đầu dưỡng sinh hoàn thành tốt nhiệm vụ vệ sinh tóc và da đầu sạch sẽ, giúp rửa trôi bụi bẩn, hạn chế gàu nấm da đầu, giúp tóc trở nên suôn mềm và bóng mượt nhờ vào dưỡng chất từ nước gội, dầu gội.</p>
