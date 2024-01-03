@@ -25,7 +25,7 @@
                     <div class="space-y-2 md:space-y-5">
                         <h4 class="text-yellow-200 text-xl md:text-3xl">Email</h4>
                         <div>
-                            <a href="mailto:booking@nangsen.com" class="text-gray-100 hover:underline">booking@nangsen.com</a>
+                            <a href="mailto:nangsen2024@gmail.com" class="text-gray-100 hover:underline">nangsen2024@gmail.com</a>
                         </div>
                     </div>
 
@@ -37,7 +37,7 @@
                     </div>
 
                     <div>
-                        <a href="/" class="text-gray-100 hover:text-yellow-300 hover:cursor-pointer">
+                        <a href="https://www.facebook.com/profile.php?id=61550939602169" class="text-gray-100 hover:text-yellow-300 hover:cursor-pointer" target="_blank">
                             <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"/></svg>
                         </a>
                     </div>
@@ -78,7 +78,7 @@
             </div>
 
             <div class="hidden md:block">
-                <iframe class="w-full" height="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1160918962296!2d105.82977491079842!3d21.028040387722545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab9ef353a097%3A0xea37567e1a738c9c!2zNiBQLiBCw61jaCBDw6J1LCBRdeG7kWMgVOG7rSBHacOhbSwgxJDhu5FuZyDEkGEsIEjDoCBO4buZaSAxMDAwMDAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1704214384634!5m2!1svi!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="w-full" height="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d476326.7606487634!2d105.33192893309825!3d21.140343984588597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abcb932ac77f%3A0x49b33c1a7ee5e635!2sN%C3%A0ng%20Sen%20Massage%26Spa!5e0!3m2!1svi!2s!4v1704252775354!5m2!1svi!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
