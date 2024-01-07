@@ -78,8 +78,12 @@
             </div>
 
             <div class="hidden md:block">
-                <iframe class="w-full" height="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1160918942705!2d105.82978027645323!3d21.02804038780095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abcb932ac77f%3A0x49b33c1a7ee5e635!2sN%C3%A0ng%20Sen%20Massage%26Spa!5e0!3m2!1svi!2s!4v1704252920998!5m2!1svi!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="w-full" height="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1160918942705!2d105.82978027645323!3d21.02804038780095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abcb932ac77f%3A0x49b33c1a7ee5e635!2sN%C3%A0ng%20Sen%20Massage%26Spa!5e0!3m2!1svi!2s!4v1704252920998!5m2!1svi!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
+
+    <section>
+        @include('components.register-form')
+    </section>
 @endsection
