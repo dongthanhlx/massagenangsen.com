@@ -1,6 +1,6 @@
 <nav class="">
     <div class="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto px-4 py-2">
-        <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src="{{ asset('storage/logo.png') }}" class="h-8 md:h-16" alt="Logo" />
         </a>
         <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-cyan-700 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
@@ -39,7 +39,7 @@
                     </a>
                 </li>
                 <li class="px-4 py-3">
-                    <a href="#" class="font-bold space-y-1 text-cyan-700 hover:text-cyan-500">
+                    <a href="/tin-tuc" class="font-bold space-y-1 text-cyan-700 hover:text-cyan-500">
                         <div class="flex justify-center hidden md:flex">
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-news" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16 6h3a1 1 0 0 1 1 1v11a2 2 0 0 1 -4 0v-13a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1v12a3 3 0 0 0 3 3h11" /><path d="M8 8l4 0" /><path d="M8 12l4 0" /><path d="M8 16l4 0" /></svg>
                         </div>

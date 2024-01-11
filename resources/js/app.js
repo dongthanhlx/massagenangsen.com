@@ -35,7 +35,7 @@ const handleRegister = () => {
     register.on('click', 'button[data-action="register"]', async () => {
         const form = $('#register-form form')[0];
         const data = Object.fromEntries(new FormData(form).entries());
-console.log(data.phone)
+
         if (!data.phone || data.phone.length < 9 || data.phone.length > 10) {
             alert('Vui lòng nhập Số Điện Thoại để đăng ký trải nhiệm.');
             return;
