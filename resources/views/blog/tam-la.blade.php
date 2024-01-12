@@ -4,12 +4,12 @@
     @include('components.header')
 
     <div class="max-w-3xl p-5 mx-auto space-y-10">
-        <h3 class="text-3xl font-bold uppercase text-center text-sky-800">
+        <h3 class="text-2xl md:text-3xl font-bold uppercase text-center text-sky-800">
             XUA TAN CƠN MỆT MỎI, CĂNG THẲNG VỚI BÀI THUỐC TẮM LÁ CỦA NGƯỜI DAO TẠI “NÀNG SEN MASSAGE&SPA”!!!
         </h3>
 
         <div class="space-y-5">
-            <p class="mb-3 text-center text-gray-700 px-20">
+            <p class="mb-3 text-center text-gray-700 px-5 md:px-20">
                 "Bài thuốc tắm lá dao đỏ có nguồn gốc từ vùng SaPa - Lào Cai, nổi tiếng với vô vàn lợi ích cho sức khỏe, nên được người Dao đỏ thường xuyên sử dụng."
             </p>
 

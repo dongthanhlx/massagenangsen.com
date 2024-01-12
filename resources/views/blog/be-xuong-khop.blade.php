@@ -4,12 +4,12 @@
     @include('components.header')
 
     <div class="max-w-3xl p-5 mx-auto space-y-10">
-        <h3 class="text-3xl font-bold uppercase text-center text-sky-800">
+        <h3 class="text-2xl md:text-3xl font-bold uppercase text-center text-sky-800">
             Trị liệu bẻ cơ xương khớp và những tác dụng thần kỳ có thể bạn chưa biết?
         </h3>
 
         <div class="space-y-5">
-            <p class="mb-3 text-center text-gray-700 px-20">
+            <p class="mb-3 text-center text-gray-700 px-5 md:px-20">
                 "Trị liệu bẻ cơ xương khớp đang được đánh giá là phương pháp chữa trị hữu hiệu và an toàn nhất hiện nay cho các bệnh cơ xương khớp, đặc biệt là các bệnh lý cột sống. Cùng Nàng Sen tìm hiểu kỹ hơn về phương pháp này và những tác dụng thần kỳ mà nó đem lại cho cơ thể nhé!"
             </p>
 

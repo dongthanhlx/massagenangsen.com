@@ -4,7 +4,7 @@
     @include('components.header')
 
     <div class="max-w-3xl p-5 mx-auto space-y-10">
-        <h3 class="text-3xl font-bold uppercase text-center text-sky-800">
+        <h3 class="text-2xl md:text-3xl font-bold uppercase text-center text-sky-800">
             Tips trị dứt điểm đau cổ vai gáy cho dân văn phòng
         </h3>
 
