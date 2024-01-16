@@ -20,7 +20,7 @@
                     Theo bác sĩ CKII Huỳnh Tấn Vũ - Bệnh viện Đại học Y Dược TP.HCM thì trị liệu bẻ cơ xương khớp bản chất là phương pháp dùng trong vật lý trị liệu. Tiền đề của nó được gọi là Chiropractic - Một cách điều trị tích cực không dùng thuốc. Với phương pháp này, các bác sĩ hoặc các kỹ thuật viên có chuyên môn cao sẽ dùng tay hoặc các thiết bị phụ trợ để nắn trật khớp. Vùng thường được “nắn xương khớp” nhiều nhất là cột sống và các khớp. Theo giới khoa học, phương pháp này an toàn và đạt hiệu quả cao nhất với người có bệnh cơ xương khớp.
                 </p>
 
-{{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}
+                <img src="{{asset('storage/be-xuong-khop/1.png')}}" alt="" class="px-0 md:px-20 py-5">
             </div>
 
             <div class="space-y-3">
@@ -49,6 +49,8 @@
                         </p>
                     </li>
                 </ul>
+
+                <img src="{{asset('storage/be-xuong-khop/2.png')}}" alt="" class="px-0 md:px-20 py-5">
             </div>
 
 
