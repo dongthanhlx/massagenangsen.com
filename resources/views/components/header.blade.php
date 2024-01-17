@@ -12,7 +12,7 @@
         <div class="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul class="font-medium flex flex-col mt-4 py-2 border border-gray-100 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 bg-gray-100 md:bg-inherit divide-y md:divide-none">
                 <li class="px-4 py-3">
-                    <a href="#" class="font-bold space-y-1 text-cyan-700 hover:text-cyan-500" aria-current="page">
+                    <a href="/gioi-thieu" class="font-bold space-y-1 text-cyan-700 hover:text-cyan-500" aria-current="page">
                         <div class="justify-center hidden md:flex">
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" stroke-width="0" fill="currentColor" /><path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" stroke-width="0" fill="currentColor" /></svg>
                         </div>

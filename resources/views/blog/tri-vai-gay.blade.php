@@ -56,7 +56,7 @@
 
             <div>
                 <p class="text-gray-700 text-lg">
-                    Các dịch vụ massage tại Nàng Sen không chỉ giúp giảm căng thẳng, căng cơ mà còn kích thích tuần hoàn máu, cải thiện sức khỏe tổng thể. Không gian ấm cúng, riêng tư tại Nàng Sen cùng với sự chuyên nghiệp của đội ngũ kỹ thuật viên sẽ giúp bạn tái tạo năng lượng và tận hưởng khoảnh khắc thoải mái nhất.
+                    Các dịch vụ massage tại <span class="font-semibold text-sky-700">Nàng Sen</span> không chỉ giúp giảm căng thẳng, căng cơ mà còn kích thích tuần hoàn máu, cải thiện sức khỏe tổng thể. Không gian ấm cúng, riêng tư tại <span class="font-semibold text-sky-700">Nàng Sen</span> cùng với sự chuyên nghiệp của đội ngũ kỹ thuật viên sẽ giúp bạn tái tạo năng lượng và tận hưởng khoảnh khắc thoải mái nhất.
                 </p>
             </div>
         </div>

@@ -23,12 +23,12 @@
                 </p>
 
                 <p class="text-gray-700 text-lg">
-                    Tại Nàng Sen, dịch vụ Thủy trị liệu là một trong những phương pháp truyền thống được ưa chuộng bậc nhất bởi liệu trình đơn giản mà mang lại hiệu quả rất lớn cho khách hàng. Chỉ cần thư giãn trong làn nước thảo mộc, khách hàng sẽ có trải nghiệm thư giãn, thoải mái về cả tâm hồn lẫn thể xác.
+                    Tại <span class="font-semibold text-sky-700">Nàng Sen</span>, dịch vụ Thủy trị liệu là một trong những phương pháp truyền thống được ưa chuộng bậc nhất bởi liệu trình đơn giản mà mang lại hiệu quả rất lớn cho khách hàng. Chỉ cần thư giãn trong làn nước thảo mộc, khách hàng sẽ có trải nghiệm thư giãn, thoải mái về cả tâm hồn lẫn thể xác.
                 </p>
             </div>
 
             <div class="space-y-3">
-                <h4 class="text-xl font-semibold">2. Thủy trị liệu bằng lá thuốc tắm của người Dao Đỏ chỉ có tại Nàng Sen</h4>
+                <h4 class="text-xl font-semibold">2. Thủy trị liệu bằng lá thuốc tắm của người Dao Đỏ chỉ có tại <span class="font-semibold text-sky-700">Nàng Sen</span></h4>
 
                 <img src="{{asset('storage/tam-la/2.png')}}" alt="" class="px-0 md:px-20 py-5">
 
@@ -42,7 +42,7 @@
             </div>
 
             <div class="space-y-3">
-                <h4 class="text-xl font-semibold">3. Công dụng của phương pháp thủy trị liệu tại Nàng Sen</h4>
+                <h4 class="text-xl font-semibold">3. Công dụng của phương pháp thủy trị liệu tại <span class="font-semibold text-sky-700">Nàng Sen</span></h4>
 
                 <img src="{{asset('storage/goi-thuy-tri-lieu/1.png')}}" alt="" class="px-0 md:px-20 py-5">
 
@@ -76,7 +76,7 @@
                 <img src="{{asset('storage/goi-thuy-tri-lieu/3.png')}}" alt="" class="px-0 md:px-20 py-5">
 
                 <p class="text-gray-700 text-lg">
-                    Tại Nàng Sen, chúng tôi có một đội ngũ kĩ thuật viên chuyên nghiệp để đảm bảo chất lượng và an toàn cho trải nghiệm thủy trị liệu của quý khách
+                    Tại <span class="font-semibold text-sky-700">Nàng Sen</span>, chúng tôi có một đội ngũ kĩ thuật viên chuyên nghiệp để đảm bảo chất lượng và an toàn cho trải nghiệm thủy trị liệu của quý khách
                 </p>
 
                 <ul class="space-y-3 text-gray-700 list-disc list-inside">
@@ -92,13 +92,13 @@
                 </ul>
 
                 <p class="text-gray-700 text-lg">
-                    Không nên ngâm xông khi quá đói hoặc quá no. Nàng Sen có trà và thức ăn nhẹ hoàn toàn miễn phí cho quý khách.
+                    Không nên ngâm xông khi quá đói hoặc quá no. <span class="font-semibold text-sky-700">Nàng Sen</span> có trà và thức ăn nhẹ hoàn toàn miễn phí cho quý khách.
                 </p>
             </div>
 
             <div class="space-y-3">
                 <p class="text-gray-700 text-lg">
-                    Các dịch vụ thủy trị liệu tại Nàng Sen không chỉ giúp giảm căng thẳng, căng cơ mà còn kích thích tuần hoàn máu, cải thiện sức khỏe tổng thể. Không gian ấm cúng, riêng tư tại Nàng Sen cùng với sự chuyên nghiệp của đội ngũ kỹ thuật viên sẽ giúp bạn tái tạo năng lượng và tận hưởng khoảnh khắc thoải mái nhất.
+                    Các dịch vụ thủy trị liệu tại <span class="font-semibold text-sky-700">Nàng Sen</span> không chỉ giúp giảm căng thẳng, căng cơ mà còn kích thích tuần hoàn máu, cải thiện sức khỏe tổng thể. Không gian ấm cúng, riêng tư tại <span class="font-semibold text-sky-700">Nàng Sen</span> cùng với sự chuyên nghiệp của đội ngũ kỹ thuật viên sẽ giúp bạn tái tạo năng lượng và tận hưởng khoảnh khắc thoải mái nhất.
                 </p>
             </div>
         </div>

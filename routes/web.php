@@ -25,6 +25,10 @@ Route::get('/dich-vu', function () {
     return view('services');
 });
 
+Route::get('/gioi-thieu', function () {
+    return view('aboutus');
+});
+
 Route::get('/bai-thuoc-tam-la-cua-nguoi-dao', function () {
     return view('blog.tam-la');
 });

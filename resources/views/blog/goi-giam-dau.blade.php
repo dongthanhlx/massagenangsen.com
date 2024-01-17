@@ -11,7 +11,7 @@
         <div class="space-y-5">
             <div class="space-y-3">
                 <p class="text-gray-700 text-lg">
-                    Đau các vùng trên cơ thể đặc biệt là đau cổ vai gáy, đau thắt lưng, đau bàn chân…là những vấn đề nhức nhối đối với cả phụ nữ lẫn nam giới, nhất là độ tuổi từ 25 trở đi, khi các cơ quan trong cơ thể chúng ta đã bắt đầu bước sang giai đoạn lão hóa. Với quỹ thời gian nghỉ ngơi ít ỏi, cùng nhu cầu vừa chăm sóc trị liệu được các vùng đau vừa tiết kiệm thời gian thì ngại gì mà không đến Nàng Sen & Massage trải nghiệm dịch vụ trị liệu điểm đau chỉ trong 45 phút nhưng mang lại hiệu quả bất ngờ.
+                    Đau các vùng trên cơ thể đặc biệt là đau cổ vai gáy, đau thắt lưng, đau bàn chân…là những vấn đề nhức nhối đối với cả phụ nữ lẫn nam giới, nhất là độ tuổi từ 25 trở đi, khi các cơ quan trong cơ thể chúng ta đã bắt đầu bước sang giai đoạn lão hóa. Với quỹ thời gian nghỉ ngơi ít ỏi, cùng nhu cầu vừa chăm sóc trị liệu được các vùng đau vừa tiết kiệm thời gian thì ngại gì mà không đến <span class="font-semibold text-sky-700">Nàng Sen & Massage</span> trải nghiệm dịch vụ trị liệu điểm đau chỉ trong 45 phút nhưng mang lại hiệu quả bất ngờ.
                 </p>
 
                 <p class="text-gray-700 text-lg">
@@ -19,7 +19,7 @@
                 </p>
 
                 <p class="text-gray-700 text-lg">
-                    Đến với Spa Nàng Sen & Massage quý khách sẽ được trải nghiệm những dịch vụ chăm sóc sức khỏe vô cùng hấp dẫn. Với đội ngũ kĩ thuật viên chuyên nghiệp sẽ mang lại cho quý khách một cảm giác vô cùng dễ chịu và thoải mái nhất.
+                    Đến với <span class="font-semibold text-sky-700">Spa Nàng Sen & Massage</span> quý khách sẽ được trải nghiệm những dịch vụ chăm sóc sức khỏe vô cùng hấp dẫn. Với đội ngũ kĩ thuật viên chuyên nghiệp sẽ mang lại cho quý khách một cảm giác vô cùng dễ chịu và thoải mái nhất.
                 </p>
 
             </div>

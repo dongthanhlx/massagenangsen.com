@@ -95,7 +95,7 @@
                 <img src="{{asset('storage/tam-la/4.png')}}" alt="" class="px-0 md:px-20 py-5">
 
                 <p class="text-gray-700 text-lg">
-                    Nhận thấy thuốc lá tắm Dao đỏ có rất nhiều lợi ích cho cơ thể, cho nên tại Nàng Sen & Massage đã và đang áp dụng cho khách hàng. Với kinh nghiệm nhiều năm trong lĩnh vực massage trị liệu, đến đây bạn được ngâm mình trong bồn gỗ Pơ mu, Bài thuốc tắm lá người Dao Đỏ cổ truyền được Nàng Sen & Massage sử dụng bao gồm nhiều loại thảo dược quý khác nhau. Với nhiều công dụng hữu ích cho sức khỏe như trị phong thấp, chân tay tê mỏi, chữa bệnh ngoài da,… Giúp làn da trở nên trắng sáng hơn và cơ thể loại bỏ mệt mỏi, stress ngay sau khi tắm nước lá. Với phương châm của Nàng Sen “Khách là Nàng - Ta là Sen” Nhằm đem đến trải nghiệm cho khách hàng một cách hài lòng, chu đáo và chuyên nghiệp nhất.
+                    Nhận thấy thuốc lá tắm Dao đỏ có rất nhiều lợi ích cho cơ thể, cho nên tại <span class="font-semibold text-sky-700">Nàng Sen & Massage</span> đã và đang áp dụng cho khách hàng. Với kinh nghiệm nhiều năm trong lĩnh vực massage trị liệu, đến đây bạn được ngâm mình trong bồn gỗ Pơ mu, Bài thuốc tắm lá người Dao Đỏ cổ truyền được Nàng Sen & Massage sử dụng bao gồm nhiều loại thảo dược quý khác nhau. Với nhiều công dụng hữu ích cho sức khỏe như trị phong thấp, chân tay tê mỏi, chữa bệnh ngoài da,… Giúp làn da trở nên trắng sáng hơn và cơ thể loại bỏ mệt mỏi, stress ngay sau khi tắm nước lá. Với phương châm của Nàng Sen “Khách là Nàng - Ta là Sen” Nhằm đem đến trải nghiệm cho khách hàng một cách hài lòng, chu đáo và chuyên nghiệp nhất.
                 </p>
             </div>
         </div>

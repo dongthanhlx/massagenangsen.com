@@ -14,7 +14,7 @@
             </p>
 
             <p class="mb-3 text-center text-gray-700 px-5 md:px-20">
-                Tiếng nhạc du dương, hương thơm dễ chịu, không gian ấn tượng cùng các liệu pháp massage thư giãn chuyên nghiệp. Tất cả điều đó được gói gọn tại Nàng Sen, điểm đến thư giãn và an dưỡng. Với slogan “Khách là Nàng còn ta là Sen”, Nàng Sen dự sẽ là điểm đến thư giãn yêu thích tại Hà Nội
+                Tiếng nhạc du dương, hương thơm dễ chịu, không gian ấn tượng cùng các liệu pháp massage thư giãn chuyên nghiệp. Tất cả điều đó được gói gọn tại <span class="font-semibold text-sky-700">Nàng Sen</span>, điểm đến thư giãn và an dưỡng. Với slogan “Khách là Nàng còn ta là Sen”, Nàng Sen dự sẽ là điểm đến thư giãn yêu thích tại Hà Nội
             </p>
 
 
@@ -22,7 +22,7 @@
                 <h4 class="text-xl font-semibold">1. Không gian spa và massage mang đến sự thoải mái</h4>
 
                 <p class="text-gray-700 text-lg">
-                    Khác với những nơi làm đẹp khác. Nàng Sen ưu tiên và chú trọng sự thoải mái của khách hàng lên đầu tiên. Từ cách thiết kế không gian đến cách bày trí các vật dụng cũng được làm cẩn thận, tỉ mỉ.
+                    Khác với những nơi làm đẹp khác. <span class="font-semibold text-sky-700">Nàng Sen</span> ưu tiên và chú trọng sự thoải mái của khách hàng lên đầu tiên. Từ cách thiết kế không gian đến cách bày trí các vật dụng cũng được làm cẩn thận, tỉ mỉ.
                 </p>
 
                 <p class="text-gray-700 text-lg">
@@ -40,7 +40,7 @@
                 </p>
 
                 <p class="text-gray-700 text-lg">
-                    Đến với Nàng Sen, bạn không những được trải nghiệm dịch vụ massage mà còn các gói dịch vụ làm đẹp như trẻ hoá da mặt, triệt lông body, tắm trắng,...
+                    Đến với <span class="font-semibold text-sky-700">Nàng Sen</span>, bạn không những được trải nghiệm dịch vụ massage mà còn các gói dịch vụ làm đẹp như trẻ hoá da mặt, triệt lông body, tắm trắng,...
                 </p>
 
 {{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}
@@ -50,15 +50,15 @@
                 <h4 class="text-xl font-semibold">3. Kỹ thuật viên chuyên nghiệp</h4>
 
                 <p class="text-gray-700 text-lg">
-                    Những kỹ thuật viên tại Nàng Sen đã được qua đào tạo và có tay nghề cao. Họ am hiểu và biết rõ các điểm  huyệt trên cơ thể của bạn, nên mọi cơn đau nhức, mệt mỏi đều được xua tan nhanh chóng.
+                    Những kỹ thuật viên tại <span class="font-semibold text-sky-700">Nàng Sen</span> đã được qua đào tạo và có tay nghề cao. Họ am hiểu và biết rõ các điểm  huyệt trên cơ thể của bạn, nên mọi cơn đau nhức, mệt mỏi đều được xua tan nhanh chóng.
                 </p>
 
                 <p class="text-gray-700 text-lg">
-                    Điểm đặc biệt làm Nàng Sen nổi bật và được nhiều khách hàng đánh giá cao. Là từ sự niềm nở, tận tình của các kỹ thuật viên. Họ mang đến cảm giác thân quen, vì thế bạn có thể chia sẻ, nói chuyện thoải mái cùng họ mà không bị ngại ngùng hay khó chịu.
+                    Điểm đặc biệt làm <span class="font-semibold text-sky-700">Nàng Sen</span> nổi bật và được nhiều khách hàng đánh giá cao. Là từ sự niềm nở, tận tình của các kỹ thuật viên. Họ mang đến cảm giác thân quen, vì thế bạn có thể chia sẻ, nói chuyện thoải mái cùng họ mà không bị ngại ngùng hay khó chịu.
                 </p>
 
                 <p class="text-gray-700 text-lg">
-                    Nàng Sen hội tụ đầy đủ những tiêu chuẩn chất lượng của một spa sang trọng, uy tín, chất lượng từ không gian thư giãn đỉnh cao, cơ sở vật chất hiện đại, đến trình độ tay nghề, sự tận tâm và chu đáo của đội ngũ kĩ thuật viên.Với kiến trúc ấn tượng, dịch vụ tiêu chuẩn, Nàng Sen sớm trở thành điểm đến thư giãn và an dưỡng được ưa thích.
+                    <span class="font-semibold text-sky-700">Nàng Sen</span> hội tụ đầy đủ những tiêu chuẩn chất lượng của một spa sang trọng, uy tín, chất lượng từ không gian thư giãn đỉnh cao, cơ sở vật chất hiện đại, đến trình độ tay nghề, sự tận tâm và chu đáo của đội ngũ kĩ thuật viên.Với kiến trúc ấn tượng, dịch vụ tiêu chuẩn, <span class="font-semibold text-sky-700">Nàng Sen</span> sớm trở thành điểm đến thư giãn và an dưỡng được ưa thích.
                 </p>
 
 {{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}

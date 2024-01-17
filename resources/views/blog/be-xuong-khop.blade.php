@@ -10,7 +10,7 @@
 
         <div class="space-y-5">
             <p class="mb-3 text-center text-gray-700 px-5 md:px-20">
-                "Trị liệu bẻ cơ xương khớp đang được đánh giá là phương pháp chữa trị hữu hiệu và an toàn nhất hiện nay cho các bệnh cơ xương khớp, đặc biệt là các bệnh lý cột sống. Cùng Nàng Sen tìm hiểu kỹ hơn về phương pháp này và những tác dụng thần kỳ mà nó đem lại cho cơ thể nhé!"
+                "Trị liệu bẻ cơ xương khớp đang được đánh giá là phương pháp chữa trị hữu hiệu và an toàn nhất hiện nay cho các bệnh cơ xương khớp, đặc biệt là các bệnh lý cột sống. Cùng <span class="font-semibold text-sky-700">Nàng Sen</span> tìm hiểu kỹ hơn về phương pháp này và những tác dụng thần kỳ mà nó đem lại cho cơ thể nhé!"
             </p>
 
             <div class="space-y-3">
@@ -55,10 +55,10 @@
 
 
             <div class="space-y-3">
-                <h4 class="text-xl font-semibold">3. Lý do bạn nên sử dụng dịch vụ massage - trị liệu bẻ cơ xương khớp tại Nàng Sen</h4>
+                <h4 class="text-xl font-semibold">3. Lý do bạn nên sử dụng dịch vụ massage - trị liệu bẻ cơ xương khớp tại <span class="font-semibold text-sky-700">Nàng Sen</span></h4>
 
                 <p class="text-gray-700 text-lg">
-                    Dịch vụ massage - trị liệu bẻ cơ xương khớp tại Nàng Sen là một lựa chọn tuyệt vời cho những người đang tìm kiếm trải nghiệm thư giãn và chăm sóc sức khỏe toàn diện. Tại Nàng Sen, chúng tôi có đội ngũ kỹ thuật viên chuyên môn cao và tận tâm với từng khách hàng. Mỗi khách hàng khi đến với Nàng Sen đều sẽ được nâng niu, trân trọng và chăm sóc tận tình nhất.
+                    Dịch vụ massage - trị liệu bẻ cơ xương khớp tại Nàng Sen là một lựa chọn tuyệt vời cho những người đang tìm kiếm trải nghiệm thư giãn và chăm sóc sức khỏe toàn diện. Tại <span class="font-semibold text-sky-700">Nàng Sen</span>, chúng tôi có đội ngũ kỹ thuật viên chuyên môn cao và tận tâm với từng khách hàng. Mỗi khách hàng khi đến với <span class="font-semibold text-sky-700">Nàng Sen</span> đều sẽ được nâng niu, trân trọng và chăm sóc tận tình nhất.
                 </p>
 
                 <p class="text-gray-700 text-lg">
