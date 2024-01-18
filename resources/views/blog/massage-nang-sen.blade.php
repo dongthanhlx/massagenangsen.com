@@ -29,7 +29,7 @@
                     Mỗi chi tiết dù nhỏ, nhưng lại đem đến cho bạn sự thích thú và thân thuộc như: nến, hoa, lá,… Ánh sáng ở spa thường dịu nhẹ, không quá sáng chói. Hòa quyện cùng gam màu trầm spa tạo nên sự dễ chịu cho thị giác người nhìn.
                 </p>
 
-{{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}
+                <img src="{{asset('storage/massage-tai-nang-sen/1.png')}}" alt="" class="px-0 md:px-20 py-5">
             </div>
 
             <div class="space-y-3">
@@ -43,7 +43,7 @@
                     Đến với <span class="font-semibold text-sky-700">Nàng Sen</span>, bạn không những được trải nghiệm dịch vụ massage mà còn các gói dịch vụ làm đẹp như trẻ hoá da mặt, triệt lông body, tắm trắng,...
                 </p>
 
-{{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}
+                <img src="{{asset('storage/massage-tai-nang-sen/2.png')}}" alt="" class="px-0 md:px-20 py-5">
             </div>
 
             <div class="space-y-3">
@@ -61,7 +61,7 @@
                     <span class="font-semibold text-sky-700">Nàng Sen</span> hội tụ đầy đủ những tiêu chuẩn chất lượng của một spa sang trọng, uy tín, chất lượng từ không gian thư giãn đỉnh cao, cơ sở vật chất hiện đại, đến trình độ tay nghề, sự tận tâm và chu đáo của đội ngũ kĩ thuật viên.Với kiến trúc ấn tượng, dịch vụ tiêu chuẩn, <span class="font-semibold text-sky-700">Nàng Sen</span> sớm trở thành điểm đến thư giãn và an dưỡng được ưa thích.
                 </p>
 
-{{--                <img src="{{asset('storage/tam-la/1.png')}}" alt="" class="px-0 md:px-20 py-5">--}}
+                <img src="{{asset('storage/massage-tai-nang-sen/3.jpg')}}" alt="" class="px-0 md:px-20 py-5">
             </div>
 
         </div>
