@@ -22,7 +22,7 @@
                             <h4 class="text-yellow-200 text-xl md:text-3xl">Ghé thăm</h4>
                             <div class="space-y-1 text-sm md:text-base">
                                 <p class="text-gray-100">Số 6 Bích Câu, Quốc Tử Giám, Đống Đa, Hà nội.</p>
-                                <p class="text-gray-100">Giờ hoạt động: <strong>08:00 - 22:00</strong>.</p>
+                                <p class="text-gray-100">Giờ hoạt động: <strong>09:00 - 22:00</strong>.</p>
                                 <p class="text-gray-100">Nhận booking đến 22:00 hằng ngày.</p>
                             </div>
                         </div>
