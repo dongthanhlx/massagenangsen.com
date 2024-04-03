@@ -9,6 +9,22 @@
         </h3>
 
         <div class="space-y-5">
+            <a href="/noi-hoi-tu-dang-cap" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-2xl hover:bg-gray-100 mx-auto">
+                <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="{{ asset('storage/noi-hoi-tu-dang-cap/thumbnail.png') }}" alt="">
+                <div class="flex flex-col justify-between p-4 leading-normal">
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Nơi hội tụ đẳng cấp doanh nhân</h5>
+                    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Nàng Sen tự hào là một biểu tượng của sự tinh tế và đẳng cấp, với kiến trúc cổ điển kết hợp với các yếu tố tự nhiên, không gian nơi đây tạo ra một cảm giác ấm áp</p>
+                </div>
+            </a>
+
+            <a href="/goi-dau-duong-sinh" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-2xl hover:bg-gray-100 mx-auto">
+                <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="{{ asset('storage/goi-dau-duong-sinh/thumbnail.png') }}" alt="">
+                <div class="flex flex-col justify-between p-4 leading-normal">
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Gội đầu dưỡng sinh ASRM - thư giãn tinh thần chăm sóc tóc khỏe đẹp</h5>
+                    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Gội đầu dưỡng sinh là hình thức 𝐤𝐞̂́𝐭 𝐡𝐨̛̣𝐩 giữa việc sử dụng các thảo dược thiên nhiên kết hợp với các động tác massage, bấm huyệt vừa giúp làm sạch da đầu, ...</p>
+                </div>
+            </a>
+
             <a href="/bai-thuoc-tam-la-cua-nguoi-dao" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-2xl hover:bg-gray-100 mx-auto">
                 <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="{{ asset('storage/bai-thuoc-tam-la.png') }}" alt="">
                 <div class="flex flex-col justify-between p-4 leading-normal">

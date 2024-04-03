@@ -52,3 +52,15 @@ Route::get('/goi-thuy-tri-lieu', function () {
 Route::get('/dich-vu-tai-massage-nang-sen', function () {
     return view('blog.massage-nang-sen');
 });
+
+Route::get('/khuyen-mai', function () {
+    return view('blog.special-offer');
+});
+
+Route::get('/noi-hoi-tu-dang-cap', function () {
+    return view('blog.noi-hoi-tu-dang-cap');
+});
+
+Route::get('/goi-dau-duong-sinh', function () {
+    return view('blog.goi-dau-duong-sinh');
+});
