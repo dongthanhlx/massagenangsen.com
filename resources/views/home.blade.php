@@ -30,7 +30,7 @@
                         <div class="space-y-2 md:space-y-5">
                             <h4 class="text-yellow-200 text-xl md:text-3xl">Email</h4>
                             <div>
-                                <a href="mailto:nangsen2024@gmail.com" class="text-gray-100 hover:underline">nangsen2024@gmail.com</a>
+                                <a href="mailto:booking@nangsen.co" class="text-gray-100 hover:underline">booking@nangsen.co</a>
                             </div>
                         </div>
 
